@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="welcome">Welcome</string>
+    <string name="instructions">Instructions: select Rock, Paper or Scissors to play.</string>
+    <string name="result"></string>
+    <string name="vs">V.S.</string>
+    <string name="computer">Computer</string>
+    <string name="player">You</string>
+    <string name="show_history">Show History</string>
+</resources>
